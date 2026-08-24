@@ -1,7 +1,7 @@
-# Return Risk Test — Order 1
+# Return Risk Test — Order 2
 
 User Query:
-What is the return risk for this order?
+Estimate the return risk for this order.
 
 Detected Intent:
 return_risk
@@ -14,6 +14,6 @@ Situation: You asked about the return risk of an order.
 
 Steps: The trained return-risk model evaluated the supplied order features.
 
-Source: Machine-learning model prediction — return probability 57.14%, risk level HIGH.
+Source: Machine-learning model prediction — return probability 36.07%, risk level LOW.
 
 Safety: This is a statistical prediction, not a guarantee that the order will be returned.

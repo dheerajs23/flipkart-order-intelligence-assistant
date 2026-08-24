@@ -1,4 +1,4 @@
-# Product Classification Test — High Confidence
+# Product Classification Test — Shirt
 
 User Query:
 What product category is shown in this image?
@@ -14,6 +14,6 @@ Situation: You asked for the product category shown in an image.
 
 Steps: The trained image-classification model processed the supplied image.
 
-Source: Image classifier prediction — Ankle boot with 99.43% confidence.
+Source: Image classifier prediction — Shirt with 59.12% confidence.
 
 Safety: This is a model prediction and should not be treated as definitive identification.

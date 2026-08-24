@@ -1,0 +1,19 @@
+# Policy RAG Test — Home Products
+
+User Query:
+What is the return window for eligible home products?
+
+Detected Intent:
+policy
+
+Grounded:
+True
+
+Final Response:
+Situation: You asked about a return policy.
+
+Steps: I searched the policy knowledge base and selected the most relevant document.
+
+Source: POL004 — Home Products Return Window. Some home products can have different return or replacement restrictions.
+
+Safety: This answer is based only on the retrieved policy information.

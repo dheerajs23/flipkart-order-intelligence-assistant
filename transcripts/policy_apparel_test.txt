@@ -1,4 +1,4 @@
-# Policy RAG Test
+# Policy RAG Test — Apparel
 
 User Query:
 How long can I return an apparel item?
