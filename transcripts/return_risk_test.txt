@@ -1,0 +1,19 @@
+# Return Risk Test
+
+User Query:
+What is the return risk for this order?
+
+Detected Intent:
+return_risk
+
+Grounded:
+True
+
+Final Response:
+Situation: You asked about the return risk of an order.
+
+Steps: The trained return-risk model evaluated the supplied order features.
+
+Source: Machine-learning model prediction — return probability 57.14%, risk level HIGH.
+
+Safety: This is a statistical prediction, not a guarantee that the order will be returned.

@@ -1,0 +1,12 @@
+numpy==2.4.6
+pandas==3.0.5
+scikit-learn==1.9.0
+scipy==1.17.1
+matplotlib==3.11.1
+pillow==12.3.0
+joblib==1.5.3
+tensorflow==2.21.0
+groq==1.6.0
+python-dotenv==1.2.3
+langgraph
+langchain-groq

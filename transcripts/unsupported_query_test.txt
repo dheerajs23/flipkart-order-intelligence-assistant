@@ -1,0 +1,13 @@
+# Unsupported Query Test
+
+User Query:
+Who will win the next cricket match?
+
+Detected Intent:
+unsupported
+
+Grounded:
+False
+
+Final Response:
+I can help with Flipkart return policies, return-risk prediction, and product image classification. I don't have enough grounded information to answer this question.
